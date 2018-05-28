@@ -1,8 +1,10 @@
 # Anomaly
-# Anomaly
+
+# Azure Subscribtion
 We have subscribed in azure.
   suriyaprakash454@gmail.com is my azure subscribtion user id.
-  
+
+# Azure Machine learning studio
 We have used azure machine learning studio in our project.
 
 We have Created project, experiment and web api in azure machine learning studio.
@@ -15,6 +17,13 @@ Please find the security key for your reference.
 
 gcfoF5O7QZrKA1HhwdLQL0SI6Dntj+tmrNM+OwUDw5SbreWVL5Qz5RxvgbZjC5CbUc9RoeXWvju0awOUwM9guA==
 
+# Render Output
 We Created Window application for rendering output.
-  Run 
+  Run Solution file AnomalyDetectionSample.sln 
+  
+  Run the project, you can get button for getting output and render.
+  
+  Click the button and get the output.
+  
+Thanks.
     
